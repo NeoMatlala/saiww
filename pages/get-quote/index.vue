@@ -2,7 +2,7 @@
     <div>
         <!-- hero section -->
         <div class="hidden md:block w-full h-48 md:h-[50vh]">
-            <img src="~/assets/contact-us-hero.jpg" class="w-full object-cover h-full" alt="">
+            <!-- <img src="~/assets/contact-us-hero.jpg" class="w-full object-cover h-full" alt=""> -->
         </div>
 
         <!-- forms -->

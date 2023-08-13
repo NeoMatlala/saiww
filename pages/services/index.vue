@@ -5,7 +5,7 @@
             <h1 class="font-medium text-4xl md:text-6xl mt-5 md:mt-10 leading-tight mb-10">Our Services</h1>
 
             <div class="w-full h-48 md:h-[80vh]">
-                <img src="~/assets/services-hero.jpg" class="w-full object-cover h-full" alt="">
+                <!-- <img src="~/assets/services-hero.jpg" class="w-full object-cover h-full" alt=""> -->
             </div>
             <hr class="w-14 md:w-40 border-2 rounded-lg border-[#7E69AD] absolute top-6 md:top-10 md:left-1/3 right-10 md:right-40">
             <hr class="w-28 md:w-72 mt-10 border-1 rounded-lg border-[#7E69AD] mx-auto">
